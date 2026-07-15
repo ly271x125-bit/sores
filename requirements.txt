@@ -1,0 +1,5 @@
+telethon
+pytz
+yt-dlp
+deep-translator
+ffmpeg
